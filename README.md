@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**ryanbhatnagar/ryanbhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student @ Bennett University
+💻 Learning Python, DSA & AI
+🚀 Goal: Become a top software engineer & build impactful projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+* Python (learning)
+* Git & GitHub
+* Problem Solving (DSA beginner)
+
+---
+
+## 📌 Projects
+
+* 🚧 Coming soon...
+
+---
+
+## 📈 Current Focus
+
+* Daily coding practice (LeetCode)
+* Building projects consistently
+* Improving problem-solving skills
+
+---
+
+## 🌐 Connect with me
+
+* LinkedIn: www.linkedin.com/in/ryanbhatnagar
